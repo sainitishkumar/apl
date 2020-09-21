@@ -1,0 +1,283 @@
+main - 2 2 4 2
+poss - 2 4
+poss - 2 0
+poss - 4 4
+poss - 4 0
+main - 2 2 2 4
+poss - 4 2
+poss - 0 2
+poss - 4 4
+poss - 0 4
+main - 2 2 4 4
+poss - 2 2
+poss - 4 4
+poss - 2 2
+poss - 4 4
+poss - 2 2
+poss - 4 4
+poss - 2 2
+poss - 4 4
+main - 2 2 6 2
+poss - 2 6
+poss - 2 -2
+poss - 6 6
+poss - 6 -2
+main - 2 2 6 6
+poss - 2 2
+poss - 6 6
+poss - 2 2
+poss - 6 6
+poss - 2 2
+poss - 6 6
+poss - 2 2
+poss - 6 6
+main - 2 2 2 6
+poss - 6 2
+poss - -2 2
+poss - 6 6
+poss - -2 6
+main - 4 2 2 2
+poss - 4 4
+poss - 4 0
+poss - 2 4
+poss - 2 0
+main - 4 2 2 4
+poss - 4 2
+poss - 2 4
+poss - 4 2
+poss - 2 4
+poss - 4 2
+poss - 2 4
+poss - 4 2
+poss - 2 4
+main - 4 2 4 4
+poss - 6 2
+poss - 2 2
+poss - 6 4
+poss - 2 4
+main - 4 2 6 2
+main - 4 2 6 6
+poss - 4 2
+poss - 6 6
+poss - 4 2
+poss - 6 6
+poss - 4 2
+poss - 6 6
+poss - 4 2
+poss - 6 6
+main - 4 2 2 6
+poss - 4 2
+poss - 2 6
+poss - 4 2
+poss - 2 6
+poss - 4 2
+poss - 2 6
+poss - 4 2
+poss - 2 6
+main - 2 4 2 2
+poss - 4 4
+poss - 0 4
+poss - 4 2
+poss - 0 2
+main - 2 4 4 2
+poss - 2 4
+poss - 4 2
+poss - 2 4
+poss - 4 2
+poss - 2 4
+poss - 4 2
+poss - 2 4
+poss - 4 2
+main - 2 4 4 4
+poss - 2 6
+poss - 2 2
+poss - 4 6
+poss - 4 2
+main - 2 4 6 2
+poss - 2 4
+poss - 6 2
+poss - 2 4
+poss - 6 2
+poss - 2 4
+poss - 6 2
+poss - 2 4
+poss - 6 2
+main - 2 4 6 6
+poss - 2 4
+poss - 6 6
+poss - 2 4
+poss - 6 6
+poss - 2 4
+poss - 6 6
+poss - 2 4
+poss - 6 6
+main - 2 4 2 6
+main - 4 4 2 2
+poss - 4 4
+poss - 2 2
+poss - 4 4
+poss - 2 2
+poss - 4 4
+poss - 2 2
+poss - 4 4
+poss - 2 2
+main - 4 4 4 2
+poss - 6 4
+poss - 2 4
+poss - 6 2
+poss - 2 2
+main - 4 4 2 4
+poss - 4 6
+poss - 4 2
+poss - 2 6
+poss - 2 2
+main - 4 4 6 2
+poss - 4 4
+poss - 6 2
+poss - 4 4
+poss - 6 2
+poss - 4 4
+poss - 6 2
+poss - 4 4
+poss - 6 2
+main - 4 4 6 6
+poss - 4 4
+poss - 6 6
+poss - 4 4
+poss - 6 6
+poss - 4 4
+poss - 6 6
+poss - 4 4
+poss - 6 6
+main - 4 4 2 6
+poss - 4 4
+poss - 2 6
+poss - 4 4
+poss - 2 6
+poss - 4 4
+poss - 2 6
+poss - 4 4
+poss - 2 6
+main - 6 2 2 2
+poss - 6 6
+poss - 6 -2
+poss - 2 6
+poss - 2 -2
+main - 6 2 4 2
+main - 6 2 2 4
+poss - 6 2
+poss - 2 4
+poss - 6 2
+poss - 2 4
+poss - 6 2
+poss - 2 4
+poss - 6 2
+poss - 2 4
+main - 6 2 4 4
+poss - 6 2
+poss - 4 4
+poss - 6 2
+poss - 4 4
+poss - 6 2
+poss - 4 4
+poss - 6 2
+poss - 4 4
+main - 6 2 6 6
+poss - 10 2
+poss - 2 2
+poss - 10 6
+poss - 2 6
+main - 6 2 2 6
+poss - 6 2
+poss - 2 6
+poss - 6 2
+poss - 2 6
+poss - 6 2
+poss - 2 6
+poss - 6 2
+poss - 2 6
+main - 6 6 2 2
+poss - 6 6
+poss - 2 2
+poss - 6 6
+poss - 2 2
+poss - 6 6
+poss - 2 2
+poss - 6 6
+poss - 2 2
+main - 6 6 4 2
+poss - 6 6
+poss - 4 2
+poss - 6 6
+poss - 4 2
+poss - 6 6
+poss - 4 2
+poss - 6 6
+poss - 4 2
+main - 6 6 2 4
+poss - 6 6
+poss - 2 4
+poss - 6 6
+poss - 2 4
+poss - 6 6
+poss - 2 4
+poss - 6 6
+poss - 2 4
+main - 6 6 4 4
+poss - 6 6
+poss - 4 4
+poss - 6 6
+poss - 4 4
+poss - 6 6
+poss - 4 4
+poss - 6 6
+poss - 4 4
+main - 6 6 6 2
+poss - 10 6
+poss - 2 6
+poss - 10 2
+poss - 2 2
+main - 6 6 2 6
+poss - 6 10
+poss - 6 2
+poss - 2 10
+poss - 2 2
+main - 2 6 2 2
+poss - 6 6
+poss - -2 6
+poss - 6 2
+poss - -2 2
+main - 2 6 4 2
+poss - 2 6
+poss - 4 2
+poss - 2 6
+poss - 4 2
+poss - 2 6
+poss - 4 2
+poss - 2 6
+poss - 4 2
+main - 2 6 2 4
+main - 2 6 4 4
+poss - 2 6
+poss - 4 4
+poss - 2 6
+poss - 4 4
+poss - 2 6
+poss - 4 4
+poss - 2 6
+poss - 4 4
+main - 2 6 6 2
+poss - 2 6
+poss - 6 2
+poss - 2 6
+poss - 6 2
+poss - 2 6
+poss - 6 2
+poss - 2 6
+poss - 6 2
+main - 2 6 6 6
+poss - 2 10
+poss - 2 2
+poss - 6 10
+poss - 6 2
+31
