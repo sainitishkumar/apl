@@ -21,9 +21,13 @@ int main() {
     reverse(weights.begin(), weights.end());
     if(k==1) {
         int scrap = 0, gifts=0, i=0;
-        while(i<weights.size()) {
+        while(i<weights.size() && gifts<800) {
             if(gifts+weights[i] <=1000) gifts+=weights[i];
             else scrap+=weights[i];
+            i++;
+        }
+        while(i<weights.size()) {
+            scrap+=weights[i];
             i++;
         }
         cout<<scrap<<endl;
